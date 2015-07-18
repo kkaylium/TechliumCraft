@@ -1,0 +1,20 @@
+[
+{
+  "modid": "techliumcraft",
+  "name" : "TechliumCraft",
+  "description" : "Glow Glass, Rainbow Slimes, And Stuffz",
+  "version": "{version}",
+  "url": "https://github.com/kkaylium/TechliumCraft",
+  "updateUrl": "",
+  "authorList": [
+    "kkaylium"
+  ],
+  "credits": "kkaylium, and JamCraft for technical help :D",
+  "logoFile": "/banner.png",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

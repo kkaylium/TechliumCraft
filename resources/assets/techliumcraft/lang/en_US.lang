@@ -1,0 +1,71 @@
+itemGroup.Glow Glass=Glow Glass
+itemGroup.Techlium Craft=Techlium Craft
+
+entity.RainbowSlime.name=Rainbow Slime
+entity.RainbowTurtle.name=Rainbow Turtle
+entity.DarkTurtle.name=Dark Turtle
+
+item.techliumcraft:GCWhite.name=Glow Crystal: White
+item.techliumcraft:GCBlack.name=Glow Crystal: Black
+item.techliumcraft:GCRed.name=Glow Crystal: Red
+item.techliumcraft:GCOrange.name=Glow Crystal: Orange
+item.techliumcraft:GCYellow.name=Glow Crystal: Yellow
+item.techliumcraft:GCLime.name=Glow Crystal: Lime
+item.techliumcraft:GCGreen.name=Glow Crystal: Green
+item.techliumcraft:GCSky.name=Glow Crystal: Sky
+item.techliumcraft:GCBlue.name=Glow Crystal: Blue
+item.techliumcraft:GCLilac.name=Glow Crystal: Lilac
+item.techliumcraft:GCPurple.name=Glow Crystal: Purple
+item.techliumcraft:GCPink.name=Glow Crystal: Pink
+item.techliumcraft:GCSpecial.name=Glow Crystal: Special
+
+item.techliumcraft:DCWhite.name=Dark Crystal: White
+item.techliumcraft:DCBlack.name=Dark Crystal: Black
+item.techliumcraft:DCRed.name=Dark Crystal: Red
+item.techliumcraft:DCOrange.name=Dark Crystal: Orange
+item.techliumcraft:DCYellow.name=Dark Crystal: Yellow
+item.techliumcraft:DCLime.name=Dark Crystal: Lime
+item.techliumcraft:DCGreen.name=Dark Crystal: Green
+item.techliumcraft:DCSky.name=Dark Crystal: Sky
+item.techliumcraft:DCBlue.name=Dark Crystal: Blue
+item.techliumcraft:DCLilac.name=Dark Crystal: Lilac
+item.techliumcraft:DCPurple.name=Dark Crystal: Purple
+item.techliumcraft:DCPink.name=Dark Crystal: Pink
+item.techliumcraft:DCSpecial.name=Dark Crystal: Special
+item.glowSticks.name=Glow Stick
+
+tile.glowGlass.name=Glow Glass
+tile.glowBlock.name=Glow Block
+tile.glowFence.name=Glow Fence
+tile.glowLog.name=Glow Log
+tile.glowLeaves.name=Glow Leaves
+tile.glowPlanks.name=Glow Planks
+
+item.techliumcraft:GOWhite.name=Glow Ore: White
+item.techliumcraft:GOBlack.name=Glow Ore: Black
+item.techliumcraft:GORed.name=Glow Ore: Red
+item.techliumcraft:GOOrange.name=Glow Ore: Orange
+item.techliumcraft:GOYellow.name=Glow Ore: Yellow
+item.techliumcraft:GOLime.name=Glow Ore: Lime
+item.techliumcraft:GOGreen.name=Glow Ore: Green
+item.techliumcraft:GOSky.name=Glow Ore: Sky
+item.techliumcraft:GOBlue.name=Glow Ore: Blue
+item.techliumcraft:GOLilac.name=Glow Ore: Lilac
+item.techliumcraft:GOPurple.name=Glow Ore: Purple
+item.techliumcraft:GOPink.name=Glow Ore: Pink
+item.techliumcraft:glowStoneWhite.name=Glow Stone: White
+item.techliumcraft:glowStoneBlack.name=Glow Stone: Black
+item.techliumcraft:glowDirtWhite.name=Glow Ore: White
+item.techliumcraft:glowDirtBlack.name=Glow Ore: Black
+item.techliumcraft:glowDirtRed.name=Glow Ore: Red
+item.techliumcraft:glowDirtOrange.name=Glow Ore: Orange
+item.techliumcraft:glowDirtYellow.name=Glow Ore: Yellow
+item.techliumcraft:glowDirtLime.name=Glow Ore: Lime
+item.techliumcraft:glowDirtGreen.name=Glow Ore: Green
+item.techliumcraft:glowDirtSky.name=Glow Ore: Sky
+item.techliumcraft:glowDirtBlue.name=Glow Ore: Blue
+item.techliumcraft:glowDirtLilac.name=Glow Ore: Lilac
+item.techliumcraft:glowDirtPurple.name=Glow Ore: Purple
+item.techliumcraft:glowDirtPink.name=Glow Ore: Pink
+
+tile.darkBlock.name=Dark Block: Black
