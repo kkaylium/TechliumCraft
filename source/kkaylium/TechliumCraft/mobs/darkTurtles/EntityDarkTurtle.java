@@ -45,15 +45,11 @@ public class EntityDarkTurtle extends EntityAnimal
         this.tasks.addTask(7, new EntityAILookIdle(this));
     }
 
-    public boolean isAIEnabled()
-    {
-        return true;
-    }
-    // Helpful thing, this is: par1ItemStack.getItem() ==
+    public boolean isAIEnabled() {return true;}
 
     public boolean isBreedingItem(ItemStack par1ItemStack)
     {
-        return par1ItemStack.getItem() == Items.fire_charge;
+        return par1ItemStack.getItem() == Items.gunpowder;
     }
 
     public void onLivingUpdate()
